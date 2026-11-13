@@ -91,8 +91,6 @@ button { font: inherit; }
 .hero-copy { width: min(52%, 620px); }
 .mantra { margin: 0 0 17px; color: var(--gold-bright); font-size: 17px; font-weight: 600; letter-spacing: .7px; }
 .mantra span { padding: 0 8px; font-size: 12px; }
-.since { display: flex; align-items: center; gap: 14px; margin: 0 0 14px; color: var(--gold); font-size: 14px; font-weight: 700; letter-spacing: 3px; }
-.since span { width: 42px; height: 1px; background: var(--gold); }
 .hero h1 { margin: 0; color: #641626; font-family: var(--serif); font-size: clamp(39px, 5vw, 64px); line-height: 1.04; letter-spacing: -.8px; font-weight: 600; }
 .hero h1 em { color: var(--gold); font-style: normal; }
 .hero-description { max-width: 490px; margin: 22px 0 25px; color: #79515A; font-size: 15px; line-height: 1.75; }
@@ -237,7 +235,7 @@ button { font: inherit; }
   .hero { min-height: 620px; }
   .hero-inner { min-height: 620px; padding-top: 43px; }
   .mantra { font-size: 15px; }
-  .since { font-size: 11px; }
+  .since { font-size: 15px; }
   .hero h1 { font-size: 42px; }
   .hero-description { font-size: 14px; }
   .hero-actions { align-items: stretch; flex-direction: column; max-width: 290px; }
